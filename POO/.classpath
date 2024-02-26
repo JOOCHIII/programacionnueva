@@ -5,7 +5,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="poo1"/>
 	<classpathentry kind="src" path="POOVI"/>
 	<classpathentry kind="src" path="POOII"/>
@@ -15,7 +14,6 @@
 	<classpathentry kind="src" path="POOIV"/>
 	<classpathentry kind="src" path="POOIII"/>
 	<classpathentry kind="src" path="ABSTRACT"/>
-	<classpathentry kind="src" path="SOBRECARGA"/>
-	<classpathentry kind="src" path="interfaces"/>
+	<classpathentry kind="src" path="Sobrecarga"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
