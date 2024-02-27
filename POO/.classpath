@@ -15,5 +15,6 @@
 	<classpathentry kind="src" path="POOIII"/>
 	<classpathentry kind="src" path="ABSTRACT"/>
 	<classpathentry kind="src" path="Sobrecarga"/>
+	<classpathentry kind="src" path="interfaz"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
