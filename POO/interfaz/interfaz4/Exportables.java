@@ -1,4 +1,4 @@
-package ejercicios_POO_XII_interfaces_4;
+package interfaz4;
 
 public class Exportables {
 	public interface Exportable {

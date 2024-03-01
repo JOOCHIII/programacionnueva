@@ -1,8 +1,8 @@
-package ejercicios_POO_XII_interfaces_2;
+package interfaz2;
 
-public class ProcesamientosPagos {
+public class pagos {
 
-	interface ProcesadorPago {
+	interface Pago {
 		
 		
 		public static double dinero = 0;
